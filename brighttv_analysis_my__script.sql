@@ -1,17 +1,20 @@
+----------------Data Analysis
+-----------------two tables mixed, U-user table & V-viewr_record table
 SELECT 
 u.USERID,
 
 IFNULL(u.Gender, 'Unknown') AS GenderStatus,
 IFNULL(u.Province, 'Unknown') AS ProvinceStatus,
 IFNULL(u.Race, 'Unknown') AS RaceStatus,
-    
+
 CASE
 WHEN u.Race = 'W' THEN 'White'
 WHEN u.Race = 'B' THEN 'Black'
 WHEN u.Race = 'I' THEN 'Indian'
 WHEN u.Race = 'C' THEN 'Coloured'
 ELSE 'None'
-END AS RaceGroup,
+END AS RaceStatus,
+    
 u.AGE,
 CASE
 WHEN u.AGE BETWEEN 0 AND 12 THEN 'Kids'
@@ -37,8 +40,11 @@ END AS time_buckets,
 v.CHANNEL2
 
 FROM BRIGHTTV_PROJECT.CHANNELS.USERS u
-LEFT JOIN BRIGHTTV_PROJECT.CHANNELS.VIEWER_RECORD v
+INNER JOIN BRIGHTTV_PROJECT.CHANNELS.VIEWER_RECORD v
 ON u.USERID = v.USERID
 
 GROUP BY all;
+
+--------------------------------------------------------
+
 
