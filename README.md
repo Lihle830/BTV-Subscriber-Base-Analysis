@@ -9,7 +9,7 @@ The dataset gives useful information about viewers, like their age, gender, and 
 To give BrightTV’s CVM team useful insights that help grow subscriptions by improving engagement, offering targeted content, and attracting new customers.
 
 # Objectives
-Analyze user and viewing patterns
+Analyze user and viewing patterns.
 o	Look at how viewers are spread by age, gender, and province.
 o	Identify which days and channels have high or low viewing.
 Understand what affects viewing
