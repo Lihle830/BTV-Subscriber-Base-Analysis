@@ -1,4 +1,4 @@
-----------------Data Analysis
+-----------------Data Analysis
 -----------------two tables mixed, U-user table & V-viewr_record table
 SELECT 
 u.USERID,
