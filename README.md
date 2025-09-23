@@ -24,18 +24,5 @@ o	Explore partnerships or bundled offers.
 o	Use personalized recommendations and loyalty programs to keep viewers engaged.
 
 # Summary
-User & Viewing Trends:
-Most viewers are male (≈88%), with sports channels like SuperSport and ICC Cricket being the most popular. Women prefer Africa Magic, E! Entertainment, and Trace TV. Kids and youth mainly watch Cartoon Network and Boomerang.
-Factors Affecting Viewing:
-•	Content: Sports drive high engagement; family shows have broad appeal.
-•	Time: Weekends and evenings see more viewers; weekdays are slower.
-•	Demographics: Youth and adults make up most of the audience; seniors watch very little.
-Suggestions for Low-Viewing Days:
-•	Weekdays: show family movies, kids’ programs, and music shows.
-•	Add female-focused series and lifestyle shows to balance the male-dominated sports.
-•	Host interactive live events (competitions, reality shows) for youth engagement.
-Growth Ideas:
-•	Targeted marketing: bundle kids/family content for parents and sports packs for young males.
-•	Digital expansion: promote mobile streaming for youth and urban users.
-•	Loyalty programs: reward frequent viewers with discounts or exclusive content.
-•	Partnerships: work with telecoms for bundled subscription deals.
+Most viewers are male (88%) with sports channels leading, while women prefer shows. Sports drive the highest engagement, family shows attract broad audiences, and viewing peaks on weekends and evenings, with weekdays seeing lower activity. To boost weekday viewership, family movies, kids’ programs, music shows, female-focused content, and interactive youth events can help. Growth opportunities include targeted bundles (sports, family, kids), mobile streaming expansion and loyalty rewards.
+
