@@ -23,6 +23,9 @@ o	Run campaigns to get new subscribers.
 o	Explore partnerships or bundled offers.
 o	Use personalized recommendations and loyalty programs to keep viewers engaged.
 
+# Tools & Templates Used
+Excel or Google Sheets: For initial data cleaning and pivot tables. -Google Looker Studio: For interactive dashboards and visual storytelling. -Snowflake: For Coding. -Presentation software: PowerPoint or Slidego with visuals and summary points. -Miro: For planning
+
 # Summary
 Most viewers are male (88%) with sports channels leading, while women prefer shows. Sports drive the highest engagement, family shows attract broad audiences, and viewing peaks on weekends and evenings, with weekdays seeing lower activity. To boost weekday viewership, family movies, kids’ programs, music shows, female-focused content, and interactive youth events can help. Growth opportunities include targeted bundles (sports, family, kids), mobile streaming expansion and loyalty rewards.
 
