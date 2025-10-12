@@ -24,7 +24,7 @@ The main objectives of this project are:
 - **Databricks / SQL** – for data cleaning and transformation, data aggregation and joins 
 - **Excel** – for pivot charts and pre-analysis  
 - **GitHub** – for version control and project sharing  
--**Miro**-for planning, brainstorming, and designing workflows 
+- **Miro**-for planning, brainstorming, and designing workflows 
 
 ## 📊 Live Dashboard
 
