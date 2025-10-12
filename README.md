@@ -1,31 +1,56 @@
 # BTV-Subscriber-Base-Analysis
-Data-Driven Customer Insights to Accelerate Subscription Growth for BrightTV”
+This repository contains the data analysis, SQL scripts, and visuals behind the **Bright TV Viewership Analysis** — created to explore and understand audience behavior across demographics and channels watched.
 
-# Introduction
-BrightTV works in a very competitive entertainment and broadcasting market, where keeping existing customers and gaining new ones are both important for long-term growth. To meet the CEO’s goal of increasing subscriptions this year, it’s important to study how customers use the service, understand what drives their viewing choices, and find ways to improve engagement and attract more viewers.
-The dataset gives useful information about viewers, like their age, gender, and location, as well as what channels they watch, when, and how often. The CVM team can use these insights to make smarter decisions that improve the customer experience and business performance.
+## Introduction
+The **Bright TV Viewership analysis** the project analyzes audience viewing patterns across different demographics, channels, and platforms.  
+It **Aims** to uncover data-driven insights that support content strategy, advertising, and scheduling decisions for improved viewer engagement.
 
-# Aim
-To give BrightTV’s CVM team useful insights that help grow subscriptions by improving engagement, offering targeted content, and attracting new customers.
+## Project Overview
+This analysis uses **SQL**, **Databricks**, and **Google Looker Studio** to process and visualize TV viewership data.  
+The dataset captures user engagement by date, time, channel, gender, age group, province, and race.  
+Through data transformation and dashboard design, this project delivers meaningful visual insights for decision-making.
 
-# Objectives
-Analyze user and viewing patterns.
-o	Look at how viewers are spread by age, gender, and province.
-o	Identify which days and channels have high or low viewing.
-Understand what affects viewing
-o	Study how demographics (age, gender, location) influence watching.
-o	Check how time of day and day of the week affect viewing.
-o	See which types of content (sports, entertainment, kids, news) are most popular.
-Suggest ways to boost low-viewership days
-o	Recommend shows, genres, or events that can attract more viewers on slow days.
-Ideas to grow BrightTV’s users
-o	Run campaigns to get new subscribers.
-o	Explore partnerships or bundled offers.
-o	Use personalized recommendations and loyalty programs to keep viewers engaged.
 
-# Tools & Templates Used
-Excel or Google Sheets: For initial data cleaning and pivot tables. -Google Looker Studio: For interactive dashboards and visual storytelling. -Snowflake: For Coding. -Presentation software: PowerPoint or Slidego with visuals and summary points. -Miro: For planning
+## Objectives
+The main objectives of this project are:
+1. To identify **top-performing channels**-across various audience segments  
+2. To analyze **viewership distribution by gender, race, and age group**  
+3. To understand **viewing behavior patterns**-across times of day and day types  
+4. To assess **channel Popularity/Most Watched Channels**-identify the top-performing channels.  
+5. To highlight actionable insights for **content and scheduling improvements**
 
-# Summary
-Most viewers are male (88%) with sports channels leading, while women prefer shows. Sports drive the highest engagement, family shows attract broad audiences, and viewing peaks on weekends and evenings, with weekdays seeing lower activity. To boost weekday viewership, family movies, kids’ programs, music shows, female-focused content, and interactive youth events can help. Growth opportunities include targeted bundles (sports, family, kids), mobile streaming expansion and loyalty rewards.
+# Tools & Technologies
+- **Google Looker Studio** – for dashboard visualization  
+- **Databricks / SQL** – for data cleaning and transformation, data aggregation and joins 
+- **Excel** – for pivot charts and pre-analysis  
+- **GitHub** – for version control and project sharing  
+-**Mirro**-for
+
+## 📊 Live Dashboard
+
+Explore the interactive dashboard here 👇  
+
+👉 [**View Bright TV Live Dashboard on Looker Studio**](https://lookerstudio.google.com/reporting/a6e47cfb-e85a-4d32-aa42-fe56af3f211b)
+
+
+# Data Summary
+**Time Frame:** January – March  
+- **Total Users:** 1,000 sample viewers  
+- **Regions Covered:** All provinces  
+- **Demographics:** Age, gender, race  
+-**Most viewers:** Male with sports channels leading, while women prefer shows. Sports drive the highest engagement, family shows attract broad audiences, and viewing peaks on weekends, with weekdays seeing lower activity.
+- **Most Active Age Groups:** Youth (22–35) and Adults (36–65)
+- **Top Channels:** SuperSport Live Events, ICC Cricket World Cup, Channel O
+
+  ## 📁 Repository Contents
+  data/ # Raw and processed datasets (.csv)
+├── scripts/ # SQL scripts for cleaning and aggregation
+├── charts/ # Exported graphs and pivot charts
+├── dashboard-link.txt # Direct Looker Studio dashboard link
+└── README.md # Project overview and documentation
+SQL queries and transformation scripts 
+  
+
+
+  
 
