@@ -13,12 +13,12 @@ Through data transformation and dashboard design, this project delivers meaningf
 
 ## Objectives
 The main objectives of this project are:
--To identify **top-performing channels**-across various audience segments  
--To analyze **viewership audience distribution** across gender, race, and age group  
--To understand **viewing behavior patterns**-across times of day and day types (Weekdays, Weekends & Holidays) 
--Determine peak viewing times and patterns throughout the day. **Time of Day**
--To assess **Channel Popularity by Age Group**-Understand which channels are favored by different age groups. 
--To highlight actionable insights for **content and scheduling improvements**
+1.To identify **top-performing channels**-across various audience segments  
+2.To analyze **viewership audience distribution** across gender, race, and age group  
+3.To understand **viewing behavior patterns**-across times of day and day types (Weekdays, Weekends & Holidays) 
+4.Determine peak viewing times and patterns throughout the day. **Time of Day**
+5.To assess **Channel Popularity by Age Group**-Understand which channels are favored by different age groups. 
+6.To highlight actionable insights for **content and scheduling improvements**
 
 # Tools & Technologies
 - **Google Looker Studio** – for dashboard visualization  
