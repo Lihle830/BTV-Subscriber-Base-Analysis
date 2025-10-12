@@ -43,13 +43,13 @@ Explore the interactive dashboard here 👇
 - **Top Channels:** SuperSport Live Events, ICC Cricket World Cup, Channel O
 
   ## 📁 Repository Contents
-├── **Data** you get raw and processed datasets (.csv) & case study
-├── **Excel charts** Exported graphs and pivot charts
-├──**Interactive dashboard-** Link.txt # Direct Looker Studio dashboard link
-├──**Miro mapping** Planned & designed workflows
-├──**POC** Proof of Concept the demonstration showing dashboard planning/ideas.
-├──**Presentation deck** Project slides presentation
-├──**SQL scripts** for Cleaning and Aggregating Viewership Data
+-├── **Data** you get raw and processed datasets (.csv) & case study
+-├── **Excel charts** Exported graphs and pivot charts
+-├──**Interactive dashboard-** Link.txt # Direct Looker Studio dashboard link
+-├──**Miro mapping** Planned & designed workflows
+-├──**POC** Proof of Concept the demonstration showing dashboard planning/ideas.
+-├──**Presentation deck** Project slides presentation
+-├──**SQL scripts** for Cleaning and Aggregating Viewership Data
 
 
 
