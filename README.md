@@ -42,14 +42,28 @@ Explore the interactive dashboard here 👇
 - **Most Active Age Groups:** Youth (22–35) and Adults (36–65)
 - **Top Channels:** SuperSport Live Events, ICC Cricket World Cup, Channel O
 
-  ## 📁 Repository Contents
--├── **Data** you get raw and processed datasets (.csv) & case study
--├── **Excel charts** Exported graphs and pivot charts
--├──**Interactive dashboard-** Link.txt # Direct Looker Studio dashboard link
--├──**Miro mapping** Planned & designed workflows
--├──**POC** Proof of Concept the demonstration showing dashboard planning/ideas.
--├──**Presentation deck** Project slides presentation
--├──**SQL scripts** for Cleaning and Aggregating Viewership Data
+  ## 📁 Repository folder structure and content description:
+
+- **Data**  
+  Raw and processed datasets (.csv) along with the case study.
+
+- **Excel Charts**  
+  Exported graphs and pivot charts for data analysis.
+
+- **Interactive Dashboard**  
+  `Link.txt` containing the direct Looker Studio dashboard link.
+
+- **Miro Mapping**  
+  Planned and designed workflows for the project.
+
+- **POC (Proof of Concept)**  
+  Demonstration showing dashboard planning and initial ideas.
+
+- **Presentation Deck**  
+  Project slides for presentation.
+
+- **SQL Scripts**  
+  Scripts for cleaning and aggregating viewership data.
 
 
 
