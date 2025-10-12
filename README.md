@@ -10,15 +10,15 @@ This analysis uses **SQL**, **Databricks**, and **Google Looker Studio** to proc
 The dataset captures user engagement by date, time, channel, gender, age group, province, and race.  
 Through data transformation and dashboard design, this project delivers meaningful visual insights for decision-making.
 
+## Project Objectives
+ Are to:
 
-## Objectives
-The main objectives of this project are:
-1.To identify **top-performing channels**-across various audience segments  
-2.To analyze **viewership audience distribution** across gender, race, and age group  
-3.To understand **viewing behavior patterns**-across times of day and day types (Weekdays, Weekends & Holidays) 
-4.Determine peak viewing times and patterns throughout the day. **Time of Day**
-5.To assess **Channel Popularity by Age Group**-Understand which channels are favored by different age groups. 
-6.To highlight actionable insights for **content and scheduling improvements**
+1. **Identify top-performing channels** across various audience segments.  
+2. **Analyze viewership distribution** by gender, race, and age group.  
+3. **Understand viewing behavior patterns** across times of day and day types (weekdays, weekends, holidays).  
+4. **Determine peak viewing times** throughout the day.  
+5. **Assess channel popularity by age group** to see which channels are favored by different audiences.  
+6. **Highlight actionable insights** for content strategy and scheduling improvements.
 
 # Tools & Technologies
 - **Google Looker Studio** – for dashboard visualization  
