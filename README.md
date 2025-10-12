@@ -24,7 +24,7 @@ The main objectives of this project are:
 - **Databricks / SQL** – for data cleaning and transformation, data aggregation and joins 
 - **Excel** – for pivot charts and pre-analysis  
 - **GitHub** – for version control and project sharing  
--**Mirro**-for
+-**Miro**-for planning, brainstorming, and designing workflows 
 
 ## 📊 Live Dashboard
 
@@ -43,13 +43,14 @@ Explore the interactive dashboard here 👇
 - **Top Channels:** SuperSport Live Events, ICC Cricket World Cup, Channel O
 
   ## 📁 Repository Contents
-  data/ # Raw and processed datasets (.csv)
-├── scripts/ # SQL scripts for cleaning and aggregation
-├── charts/ # Exported graphs and pivot charts
-├── dashboard-link.txt # Direct Looker Studio dashboard link
-└── README.md # Project overview and documentation
-SQL queries and transformation scripts 
-  
+├── **Data** you get raw and processed datasets (.csv) & case study
+├── **Excel charts** Exported graphs and pivot charts
+├──**Interactive dashboard-** Link.txt # Direct Looker Studio dashboard link
+├──**Miro mapping** Planned & designed workflows
+├──**POC** Proof of Concept the demonstration showing dashboard planning/ideas.
+├──**Presentation deck** Project slides presentation
+├──**SQL scripts** for Cleaning and Aggregating Viewership Data
+
 
 
   
