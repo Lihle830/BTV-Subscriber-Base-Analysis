@@ -65,6 +65,9 @@ Explore the interactive dashboard here 👇
 - **SQL Scripts**  
   Scripts for cleaning and aggregating viewership data.
 
+- **README.md**
+  Project overview and documentation
+
 
 
   
