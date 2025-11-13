@@ -43,7 +43,7 @@ Explore the interactive dashboard here 👇
 - **Most Active Age Groups:** Youth (22–35) and Adults (36–65)
 - **Top Channels:** SuperSport Live Events, ICC Cricket World Cup, Channel O
 
-### 📁 Repository folder structure and content description:
+### 📁 Content description:
 
 - **Data**  
   Raw and processed datasets (.csv) along with the case study.
