@@ -189,5 +189,5 @@ GROUP BY
   B.day_name,
   B.watchdate,
   B.watchtime;
-  -- Query the final view
-SELECT * FROM final_aggregated_view;
+
+
